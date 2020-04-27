@@ -1,1 +1,1 @@
-# coursera_capstone_project
+# different assignments of IBM data science specialization from coursera
